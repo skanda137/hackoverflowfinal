@@ -101,18 +101,5 @@ Cloudflare Pages
 
 GitHub Pages (with configuration)
 
-Build output will be generated in the dist/ directory.
+Build output will be generated in the dist/ directory
 
- License
-
-This project is open source. Add a license file if you plan to distribute or reuse the code publicly.
-
-If you want, I can also:
-
-Customize this README for hackathon submission
-
-Add badges (build, license, tech stack)
-
-Rewrite it for a startup / SaaS tone
-
-Generate a CONTRIBUTING.md or LICENSE
